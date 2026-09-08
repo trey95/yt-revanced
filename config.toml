@@ -11,12 +11,13 @@ app-name = "YouTube"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Morphe"
-build-mode = "apk"
+build-mode = "module"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Music-Morphe]
+enabled = false
 app-name = "Music"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
